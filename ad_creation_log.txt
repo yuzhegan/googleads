@@ -1,0 +1,20 @@
+[2025-03-24 11:03:25] 开始Belk.com搜索广告创建日志
+[2025-03-24 11:03:25] 已更新配置文件 /Users/mac/Documents/media buy/google Ads/google-ads.yaml 的网络设置
+[2025-03-24 11:03:25] 使用服务账号配置文件: /Users/mac/Documents/media buy/google Ads/google-ads.yaml
+[2025-03-24 11:03:26] 成功通过服务账号加载Google Ads客户端
+[2025-03-24 11:03:26] 开始为客户 ID 278-639-3017 创建广告
+[2025-03-24 11:03:49] 发生错误: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.251.33.106:443: tcp handshaker shutdown
+[2025-03-24 11:03:49] 连接失败。将在 5 秒后重试。剩余重试次数: 2
+[2025-03-24 11:03:54] 使用服务账号配置文件: /Users/mac/Documents/media buy/google Ads/google-ads.yaml
+[2025-03-24 11:03:54] 成功通过服务账号加载Google Ads客户端
+[2025-03-24 11:03:54] 开始为客户 ID 278-639-3017 创建广告
+[2025-03-24 11:04:16] 发生错误: 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:142.251.33.106:443: Failed to connect to remote host: Timeout occurred: FD shutdown
+[2025-03-24 11:04:16] 连接失败。将在 5 秒后重试。剩余重试次数: 1
+[2025-03-24 11:04:21] 使用服务账号配置文件: /Users/mac/Documents/media buy/google Ads/google-ads.yaml
+[2025-03-24 11:04:22] 成功通过服务账号加载Google Ads客户端
+[2025-03-24 11:04:22] 开始为客户 ID 278-639-3017 创建广告
+[2025-03-24 11:04:44] 发生错误: 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:142.251.33.106:443: Failed to connect to remote host: Timeout occurred: FD shutdown
+[2025-03-24 11:04:44] 连接失败。将在 5 秒后重试。剩余重试次数: 0
+[2025-03-24 11:04:49] 使用服务账号配置文件: /Users/mac/Documents/media buy/google Ads/google-ads.yaml
+[2025-03-24 11:04:50] 成功通过服务账号加载Google Ads客户端
+[2025-03-24 11:04:50] 开始为客户 ID 278-639-3017 创建广告

@@ -1,0 +1,7 @@
+developer_token: qk8c5aHbTtwh8I8KLgbx-w
+json_key_file_path: ./learned-digit-454614-h9-e262dc74c499.json
+login_customer_id: '5250507413'
+login_timezone: America/New_York
+proxy: socks5://127.0.0.1:1080
+timeout: 60000
+use_proto_plus: true
